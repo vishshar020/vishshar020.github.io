@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62U9aKZn59A" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to Log in to UKG </langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_Log_in_to_UKG__ORG">
+    <organization identifier="How_to_Log_in_to_UKG__ORG">
+      <title>How to Log in to UKG </title>
+      <item identifier="How_to_Log_in_to_UKG_SCO" isvisible="true" identifierref="__62U9aKZn59A_RES">
+        <title>How to Log in to UKG </title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62U9aKZn59A_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6os30HFJjLg.jpg" />
+      <file href="story_content/5f0A67xb9q9.js" />
+      <file href="mobile/5jvAIQtfsaH.png" />
+      <file href="mobile/6aaTVPjwNBY.jpg" />
+      <file href="mobile/5WdKzJKKpsQ.png" />
+      <file href="mobile/6mT252bgmQ3.png" />
+      <file href="mobile/6kKO7iUVzha.png" />
+      <file href="mobile/5r8AzWz7MvA.png" />
+      <file href="mobile/5gmDc0OLSNR.png" />
+      <file href="mobile/5YdYzJD1NIr.png" />
+      <file href="mobile/6rWJywwNZl8.png" />
+      <file href="mobile/6LD0fOwAyef.png" />
+      <file href="mobile/5gAz5zOerLV.png" />
+      <file href="mobile/6Ci1IFOtJCt.png" />
+      <file href="mobile/5lXsHfvM7Y1.png" />
+      <file href="mobile/6T88o4ODQwP.png" />
+      <file href="mobile/6UKZcAQLN4U.png" />
+      <file href="mobile/6HRD4xDADq4.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d2lZgx1PKe.js" />
+      <file href="html5/data/js/5dA2j3eJii5.js" />
+      <file href="html5/data/js/5ers5kSrYeI.js" />
+      <file href="html5/data/js/5hTVbYirMta.js" />
+      <file href="html5/data/js/5zZJUnEHND7.js" />
+      <file href="html5/data/js/6bcFXS9cYTi.js" />
+      <file href="html5/data/js/6h1WrqcA92o.js" />
+      <file href="html5/data/js/6lmcoTUsawy.js" />
+      <file href="html5/data/js/6LN5Je8ODOs.js" />
+      <file href="html5/data/js/6TAGjGm5DM6.js" />
+      <file href="html5/data/js/6XPupEaJwHQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
